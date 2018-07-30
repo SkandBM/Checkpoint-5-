@@ -1,0 +1,20 @@
+#top {width : 100%; clear: both;}
+.button {
+    width: 20%;
+    background-color: #20B2AA; 
+    border: 2px solid black;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 40px;
+    cursor: pointer;
+    float: left;
+    border-right: none; }
+#box {margin-left: 50px;
+      margin-right: 50px;
+      margin-top: 100px;
+      border : 2px double black;
+      background-color: #87CEFA;
+      font-weight: normal }
+
